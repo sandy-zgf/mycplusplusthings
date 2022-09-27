@@ -12,7 +12,9 @@ class Apple{
 
 };
 
-Apple::Apple(int i):apple_number(i) {}
+Apple::Apple(int i) {
+    apple_number = i;
+}
 
 int main(int, char **)
 {
