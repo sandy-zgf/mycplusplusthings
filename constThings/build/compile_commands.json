@@ -1,12 +1,12 @@
 [
 {
   "directory": "/home/zgf/mycplusplusthings/constThings/build",
-  "command": "/usr/bin/g++    -g   -o CMakeFiles/CONST.dir/main.cpp.o -c /home/zgf/mycplusplusthings/constThings/main.cpp",
-  "file": "/home/zgf/mycplusplusthings/constThings/main.cpp"
+  "command": "/usr/bin/g++   -I/home/zgf/mycplusplusthings/constThings/./include  -g   -o CMakeFiles/CONST.dir/file1.cpp.o -c /home/zgf/mycplusplusthings/constThings/file1.cpp",
+  "file": "/home/zgf/mycplusplusthings/constThings/file1.cpp"
 },
 {
   "directory": "/home/zgf/mycplusplusthings/constThings/build",
-  "command": "/usr/bin/g++    -g   -o CMakeFiles/CONST.dir/file1.cpp.o -c /home/zgf/mycplusplusthings/constThings/file1.cpp",
-  "file": "/home/zgf/mycplusplusthings/constThings/file1.cpp"
+  "command": "/usr/bin/g++   -I/home/zgf/mycplusplusthings/constThings/./include  -g   -o CMakeFiles/CONST.dir/main.cpp.o -c /home/zgf/mycplusplusthings/constThings/main.cpp",
+  "file": "/home/zgf/mycplusplusthings/constThings/main.cpp"
 }
 ]

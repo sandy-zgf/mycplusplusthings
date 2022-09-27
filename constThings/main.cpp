@@ -1,17 +1,16 @@
 #include <iostream>
-// #include "file1.cpp"
+
+#include "file1.h"
 using namespace std;
 
 int main(int, char **)
 {
-    int num = 0;
-    int *const ptr = &num;
+    Apple a(2);
+    cout << a.getCount() << endl;
+    a.add();
 
-    int *t1  = &num;
+    return 0;
 
-    *t1 = 1;
-
-    cout << *ptr << " " << num << endl;
     
 
 

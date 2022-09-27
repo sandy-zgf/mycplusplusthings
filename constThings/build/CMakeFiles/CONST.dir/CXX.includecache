@@ -6,9 +6,17 @@
 
 #IncludeRegexTransform: 
 
+.././include/file1.h
+iostream
+-
+
 /home/zgf/mycplusplusthings/constThings/file1.cpp
+file1.h
+/home/zgf/mycplusplusthings/constThings/file1.h
 
 /home/zgf/mycplusplusthings/constThings/main.cpp
 iostream
 -
+file1.h
+/home/zgf/mycplusplusthings/constThings/file1.h
 
