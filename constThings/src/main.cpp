@@ -14,15 +14,11 @@ void demo()
 
 int main(int, char **)
 {
-    Apple a1,a2;
-    a1.i = 2;
-    a2.i = 3;
+    PerSon p("zhangguifu",20,PerSon::BOY);
 
-    cout << a1.i << a2.i << endl;  
-    // for (int i = 0; i < 10; i++)
-    // {
-    //     demo();
-    // }
+    cout << p.get_age() << endl;
+
+    cout << p.add_age(10).get_age() << endl;
 
     return 0;
     
