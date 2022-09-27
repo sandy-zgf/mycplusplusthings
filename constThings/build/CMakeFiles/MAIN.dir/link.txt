@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/MAIN.dir/src/apple.cpp.o CMakeFiles/MAIN.dir/src/main.cpp.o  -o MAIN 

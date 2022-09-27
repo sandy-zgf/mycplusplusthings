@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././include/apple.h
+
+/home/zgf/mycplusplusthings/constThings/src/apple.cpp
+apple.h
+/home/zgf/mycplusplusthings/constThings/src/apple.h
+
+/home/zgf/mycplusplusthings/constThings/src/main.cpp
+iostream
+-
+apple.h
+/home/zgf/mycplusplusthings/constThings/src/apple.h
+

@@ -1,0 +1,3 @@
+/home/zgf/mycplusplusthings/constThings/build/CMakeFiles/rebuild_cache.dir
+/home/zgf/mycplusplusthings/constThings/build/CMakeFiles/MAIN.dir
+/home/zgf/mycplusplusthings/constThings/build/CMakeFiles/edit_cache.dir

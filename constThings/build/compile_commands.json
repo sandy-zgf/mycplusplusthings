@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zgf/mycplusplusthings/constThings/build",
+  "command": "/usr/bin/g++   -I/home/zgf/mycplusplusthings/constThings/./include  -g   -o CMakeFiles/MAIN.dir/src/apple.cpp.o -c /home/zgf/mycplusplusthings/constThings/src/apple.cpp",
+  "file": "/home/zgf/mycplusplusthings/constThings/src/apple.cpp"
+},
+{
+  "directory": "/home/zgf/mycplusplusthings/constThings/build",
+  "command": "/usr/bin/g++   -I/home/zgf/mycplusplusthings/constThings/./include  -g   -o CMakeFiles/MAIN.dir/src/main.cpp.o -c /home/zgf/mycplusplusthings/constThings/src/main.cpp",
+  "file": "/home/zgf/mycplusplusthings/constThings/src/main.cpp"
+}
+]
