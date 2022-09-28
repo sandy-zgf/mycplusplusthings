@@ -13,17 +13,14 @@ void demo()
 }
 
 int main(int, char **)
-{
-    Apple a1,a2;
-    a1.i = 2;
-    a2.i = 3;
 
-    cout << a1.i << a2.i << endl;  
-    // for (int i = 0; i < 10; i++)
-    // {
-    //     demo();
-    // }
+{
+    cout << sizeof(A) << endl;
+    cout << sizeof(B) << endl;
+    cout << sizeof(C) << endl;
+
+    cout << sizeof(c1) << endl;
+    cout << sizeof(F) << endl;
 
     return 0;
-    
 }
